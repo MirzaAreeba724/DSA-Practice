@@ -1,56 +1,88 @@
 # DSA Practice in C++
 
-This repository contains my C++ practice programs completed while learning Data Structures and Algorithms (DSA). It is organized by topic, with each folder containing programs that helped me understand and practice a specific concept.
+This repository contains my C++ practice programs as I learn Data Structures and Algorithms (DSA).
 
-## Current Topic
+I am using this repository to practice concepts step by step, understand how different algorithms work, improve my problem-solving skills, and learn how to analyze the time and space complexity of my solutions.
 
-### Pattern Printing
+The repository is organized by topic, with each topic having its own folder and C++ programs.
 
-This section contains C++ programs that focus on building logic using nested loops and conditional statements.
+## Topics Covered
 
-The patterns implemented include:
+### 01. Pattern Printing
 
-- Square Patterns
-- Triangle Patterns
-- Reverse Triangle Patterns
-- Right-Aligned Triangle Patterns
+This was one of my early practice topics for improving programming logic and becoming comfortable with loops and conditions.
+
+**Concepts practiced:**
+
+- Nested loops
+- Conditional statements
+- Row and column relationships
+- Pattern logic
+- Space alignment
+- Problem solving
+
+**Patterns implemented:**
+
+- Square patterns
+- Triangle patterns
+- Reverse triangle patterns
+- Right-aligned triangle patterns
 - Floyd's Triangle
-- Pyramid Patterns
-- Hollow Square
-- Hollow Rectangle
-- Hollow Pyramid
-- Diamond Pattern
-- Hollow Diamond
-- Butterfly Pattern
+- Pyramid patterns
+- Hollow square
+- Hollow rectangle
+- Hollow pyramid
+- Diamond pattern
+- Hollow diamond
+- Butterfly pattern
 
-## Concepts Practiced
+### 02. Time and Space Complexity
 
-- Nested Loops
-- Conditional Statements
-- Pattern Logic
-- Row and Column Relationships
-- Space Alignment
-- Problem Solving
+This section focuses on understanding how to analyze the efficiency of algorithms and programs.
 
-## Technologies Used
+**Concepts covered:**
 
-- C++
-- Visual Studio Code
-- GCC Compiler
-- Git & GitHub
+- Big-O notation
+- Big-Omega notation
+- Big-Theta notation
+- Best, average, and worst cases
+- Rules for calculating complexity
+- Sequential and nested operations
+- Multiple input variables
+- Logarithms
+- Constant, logarithmic, linear, and quadratic complexity
+- Linearithmic, cubic, exponential, and factorial complexity
+- Recursion and recurrence relations
+- Master Theorem
+- Input, auxiliary, output, and call-stack space
+- Amortized complexity
+- Complexity growth comparison
 
-## Project Structure
+**Algorithms and examples practiced:**
+
+- Binary Search
+- Euclidean GCD
+- Prime checking
+- Kadane's Algorithm
+- Merge Sort
+- Bubble Sort
+- Matrix Multiplication
+- Subset generation
+- Permutation generation
+
+More DSA topics will be added as I continue learning.
+
+## Repository Structure
 
 ```text
 DSA-Practice/
 │
-├── README.md
-└── 01-Pattern-Printing/
-    └── pattern.cpp
-```
+├── 01-Pattern-Printing/
+│   └── pattern.cpp
+│
+├── 02-Time-and-Space-Complexity/
+│   └── complexity.cpp
+│
+├── .gitignore
+└── README.md
 
-## Author
-
-**Areeba Mirza**
-
-BS Computer Science Student
